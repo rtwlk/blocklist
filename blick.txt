@@ -308,3 +308,8 @@
 ||youtube.com^
 ||ytimg.com^
 ||zemanta.com^
+
+||rebounce.ai^
+||targeting.unrulymedia.com^
+||turn.com^
+||unrulymedia.com^
