@@ -109,7 +109,6 @@
 ||google.co.uk^
 ||google.co.vi^
 ||google.co.za^
-||google.com^
 ||google.com.ar^
 ||google.com.au^
 ||google.com.bo^
@@ -133,7 +132,6 @@
 ||google.com.ua^
 ||google.com.vn^
 ||google.cz^
-||google.de^
 ||google.dk^
 ||google.ee^
 ||google.es^
