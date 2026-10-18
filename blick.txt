@@ -138,7 +138,7 @@
 ||missena.io^
 ||mobility-ads.de^
 ||moloco.com^
-||mygaru.com^
+||mygaru.com^||youtu.be^
 ||nativendo.de^
 ||neory-tm.net^
 ||nexage.com^
@@ -235,5 +235,4 @@
 ||yieldlove-ad-serving.net^
 ||yieldoptimizer.com^
 ||youknowbest.com^
-||youtu.be^
 ||zemanta.com^
