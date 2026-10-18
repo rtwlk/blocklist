@@ -236,7 +236,4 @@
 ||yieldoptimizer.com^
 ||youknowbest.com^
 ||youtu.be^
-||youtube-nocookie.com^
-||youtube.com^
-||ytimg.com^
 ||zemanta.com^
